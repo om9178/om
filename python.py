@@ -1,1 +1,1 @@
-print Hello, Python!" v6)
+ Hello, Python!" v6)
